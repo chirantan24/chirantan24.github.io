@@ -1,2 +1,2 @@
-test_repo.github.io
+chirantan24.github.io
 
