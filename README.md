@@ -1,2 +1,2 @@
-test_repo.io
+test_repo.github.io
 
